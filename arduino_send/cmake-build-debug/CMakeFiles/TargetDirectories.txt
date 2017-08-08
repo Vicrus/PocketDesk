@@ -1,0 +1,3 @@
+/home/stavv/pocket_desk/arduino_send/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/stavv/pocket_desk/arduino_send/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/stavv/pocket_desk/arduino_send/cmake-build-debug/CMakeFiles/arduino_send.dir
